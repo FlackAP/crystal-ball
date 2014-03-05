@@ -112,8 +112,6 @@
 		0662537F18C7BCEA006602FB /* Crystal Ball */ = {
 			isa = PBXGroup;
 			children = (
-				0662538818C7BCEA006602FB /* APFAppDelegate.h */,
-				0662538918C7BCEA006602FB /* APFAppDelegate.m */,
 				0662538B18C7BCEA006602FB /* Main.storyboard */,
 				0662538E18C7BCEA006602FB /* APFViewController.h */,
 				0662538F18C7BCEA006602FB /* APFViewController.m */,
@@ -126,6 +124,8 @@
 		0662538018C7BCEA006602FB /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				0662538818C7BCEA006602FB /* APFAppDelegate.h */,
+				0662538918C7BCEA006602FB /* APFAppDelegate.m */,
 				0662538118C7BCEA006602FB /* Crystal Ball-Info.plist */,
 				0662538218C7BCEA006602FB /* InfoPlist.strings */,
 				0662538518C7BCEA006602FB /* main.m */,
@@ -461,6 +461,7 @@
 				066253AA18C7BCEA006602FB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		066253AB18C7BCEA006602FB /* Build configuration list for PBXNativeTarget "Crystal BallTests" */ = {
 			isa = XCConfigurationList;
@@ -469,6 +470,7 @@
 				066253AD18C7BCEA006602FB /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
