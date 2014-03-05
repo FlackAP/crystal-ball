@@ -9,5 +9,5 @@
 #import <UIKit/UIKit.h>
 
 @interface APFViewController : UIViewController
-
+- (IBAction)buttonPressed;
 @end
