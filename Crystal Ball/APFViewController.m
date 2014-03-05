@@ -27,5 +27,6 @@
 }
 
 - (IBAction)buttonPressed {
+    NSLog(@"button pressed");
 }
 @end
