@@ -21,16 +21,15 @@
 		0662539B18C7BCEA006602FB /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0662537D18C7BCEA006602FB /* UIKit.framework */; };
 		066253A318C7BCEA006602FB /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 066253A118C7BCEA006602FB /* InfoPlist.strings */; };
 		066253A518C7BCEA006602FB /* Crystal_BallTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 066253A418C7BCEA006602FB /* Crystal_BallTests.m */; };
-		166bde1961b46a3376b35297 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 0662538218C7BCEA006602FB /* InfoPlist.strings */; };
-		2257ec2f927f2488f9d2f2e7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0662538B18C7BCEA006602FB /* Main.storyboard */; };
-		2adda0117c26a34ac19aeb48 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0662537B18C7BCEA006602FB /* CoreGraphics.framework */; };
-		4fa39a6d942a6a42a848abb6 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 0662538518C7BCEA006602FB /* main.m */; };
-		56bd7c0fcc3dfaa2e8b9af8d /* APFViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0662538F18C7BCEA006602FB /* APFViewController.m */; };
-		7eae3c74c1919383b9856618 /* CFNetwork.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = d5e1886063c8ffded5c193e2 /* CFNetwork.framework */; };
-		8335d2da530ca9697621e532 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0662537D18C7BCEA006602FB /* UIKit.framework */; };
-		b60dcf9b4235e2e2f378883a /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0662539118C7BCEA006602FB /* Images.xcassets */; };
-		c3aa794392b99dbcbf4ea188 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0662537918C7BCEA006602FB /* Foundation.framework */; };
-		e742c591c1ffc0b5da9acc66 /* APFAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 0662538918C7BCEA006602FB /* APFAppDelegate.m */; };
+		0676D79118C82C2B001B21A3 /* APFViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0662538F18C7BCEA006602FB /* APFViewController.m */; };
+		0676D79218C82C2B001B21A3 /* APFAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 0662538918C7BCEA006602FB /* APFAppDelegate.m */; };
+		0676D79318C82C2B001B21A3 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 0662538518C7BCEA006602FB /* main.m */; };
+		0676D79518C82C2B001B21A3 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0662537B18C7BCEA006602FB /* CoreGraphics.framework */; };
+		0676D79618C82C2B001B21A3 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0662537D18C7BCEA006602FB /* UIKit.framework */; };
+		0676D79718C82C2B001B21A3 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 0662537918C7BCEA006602FB /* Foundation.framework */; };
+		0676D79918C82C2B001B21A3 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0662539118C7BCEA006602FB /* Images.xcassets */; };
+		0676D79A18C82C2B001B21A3 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 0662538218C7BCEA006602FB /* InfoPlist.strings */; };
+		0676D79B18C82C2B001B21A3 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0662538B18C7BCEA006602FB /* Main.storyboard */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -63,7 +62,8 @@
 		066253A018C7BCEA006602FB /* Crystal BallTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Crystal BallTests-Info.plist"; sourceTree = "<group>"; };
 		066253A218C7BCEA006602FB /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		066253A418C7BCEA006602FB /* Crystal_BallTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Crystal_BallTests.m; sourceTree = "<group>"; };
-		0676D78E18C82825001B21A3 /* Crystal Ball-cal.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Crystal Ball-cal.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		0676D79F18C82C2B001B21A3 /* Crystal Ball-cal.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Crystal Ball-cal.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		0676D7A018C82C2B001B21A3 /* Crystal Ball-cal-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; name = "Crystal Ball-cal-Info.plist"; path = "/Users/flackap/Desktop/Objective C/Treehouse/Crystal Ball/Crystal Ball-cal-Info.plist"; sourceTree = "<absolute>"; };
 		d5e1886063c8ffded5c193e2 /* CFNetwork.framework */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = wrapper.framework; name = CFNetwork.framework; path = System/Library/Frameworks/CFNetwork.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
@@ -88,14 +88,13 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		c0a081ef08aa2453cc9a3642 /* Frameworks */ = {
+		0676D79418C82C2B001B21A3 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				2adda0117c26a34ac19aeb48 /* CoreGraphics.framework in Frameworks */,
-				8335d2da530ca9697621e532 /* UIKit.framework in Frameworks */,
-				c3aa794392b99dbcbf4ea188 /* Foundation.framework in Frameworks */,
-				7eae3c74c1919383b9856618 /* CFNetwork.framework in Frameworks */,
+				0676D79518C82C2B001B21A3 /* CoreGraphics.framework in Frameworks */,
+				0676D79618C82C2B001B21A3 /* UIKit.framework in Frameworks */,
+				0676D79718C82C2B001B21A3 /* Foundation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -109,6 +108,7 @@
 				0662539E18C7BCEA006602FB /* Crystal BallTests */,
 				0662537818C7BCEA006602FB /* Frameworks */,
 				0662537718C7BCEA006602FB /* Products */,
+				0676D7A018C82C2B001B21A3 /* Crystal Ball-cal-Info.plist */,
 			);
 			sourceTree = "<group>";
 		};
@@ -117,7 +117,7 @@
 			children = (
 				0662537618C7BCEA006602FB /* Crystal Ball.app */,
 				0662539718C7BCEA006602FB /* Crystal BallTests.xctest */,
-				0676D78E18C82825001B21A3 /* Crystal Ball-cal.app */,
+				0676D79F18C82C2B001B21A3 /* Crystal Ball-cal.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -215,21 +215,21 @@
 			productReference = 0662539718C7BCEA006602FB /* Crystal BallTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		2b446d28f47f1dd4863d45aa /* Crystal Ball-cal */ = {
+		0676D78F18C82C2B001B21A3 /* Crystal Ball-cal */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = b3f6ad694e9d2fde8dca77ca /* Build configuration list for PBXNativeTarget "Crystal Ball-cal" */;
+			buildConfigurationList = 0676D79C18C82C2B001B21A3 /* Build configuration list for PBXNativeTarget "Crystal Ball-cal" */;
 			buildPhases = (
-				014372501a638059becca46e /* Sources */,
-				c0a081ef08aa2453cc9a3642 /* Frameworks */,
-				a07a8030cd8d9cd7fb39be30 /* Resources */,
+				0676D79018C82C2B001B21A3 /* Sources */,
+				0676D79418C82C2B001B21A3 /* Frameworks */,
+				0676D79818C82C2B001B21A3 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			name = "Crystal Ball-cal";
-			productName = "Crystal Ball-cal";
-			productReference = 0676D78E18C82825001B21A3 /* Crystal Ball-cal.app */;
+			productName = "Crystal Ball";
+			productReference = 0676D79F18C82C2B001B21A3 /* Crystal Ball-cal.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -262,7 +262,7 @@
 			targets = (
 				0662537518C7BCEA006602FB /* Crystal Ball */,
 				0662539618C7BCEA006602FB /* Crystal BallTests */,
-				2b446d28f47f1dd4863d45aa /* Crystal Ball-cal */,
+				0676D78F18C82C2B001B21A3 /* Crystal Ball-cal */,
 			);
 		};
 /* End PBXProject section */
@@ -286,29 +286,19 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		a07a8030cd8d9cd7fb39be30 /* Resources */ = {
+		0676D79818C82C2B001B21A3 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				b60dcf9b4235e2e2f378883a /* Images.xcassets in Resources */,
-				166bde1961b46a3376b35297 /* InfoPlist.strings in Resources */,
-				2257ec2f927f2488f9d2f2e7 /* Main.storyboard in Resources */,
+				0676D79918C82C2B001B21A3 /* Images.xcassets in Resources */,
+				0676D79A18C82C2B001B21A3 /* InfoPlist.strings in Resources */,
+				0676D79B18C82C2B001B21A3 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		014372501a638059becca46e /* Sources */ = {
-			isa = PBXSourcesBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-				56bd7c0fcc3dfaa2e8b9af8d /* APFViewController.m in Sources */,
-				e742c591c1ffc0b5da9acc66 /* APFAppDelegate.m in Sources */,
-				4fa39a6d942a6a42a848abb6 /* main.m in Sources */,
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-		};
 		0662537218C7BCEA006602FB /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
@@ -324,6 +314,16 @@
 			buildActionMask = 2147483647;
 			files = (
 				066253A518C7BCEA006602FB /* Crystal_BallTests.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		0676D79018C82C2B001B21A3 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				0676D79118C82C2B001B21A3 /* APFViewController.m in Sources */,
+				0676D79218C82C2B001B21A3 /* APFAppDelegate.m in Sources */,
+				0676D79318C82C2B001B21A3 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -505,48 +505,28 @@
 			};
 			name = Release;
 		};
-		1c4d962619aa83f1a0c6b0b7 /* Debug */ = {
+		0676D79D18C82C2B001B21A3 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
-				FRAMEWORK_SEARCH_PATHS = (
-					"$(inherited)",
-					"\"$(SRCROOT)\"",
-				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Crystal Ball/Crystal Ball-Prefix.pch";
-				INFOPLIST_FILE = "Crystal Ball/Crystal Ball-Info.plist";
-				OTHER_LDFLAGS = (
-					"$(inherited)",
-					"-force_load",
-					"\"$(SRCROOT)/calabash.framework/calabash\"",
-					"-lstdc++",
-				);
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				INFOPLIST_FILE = "Crystal Ball-cal-Info.plist";
+				PRODUCT_NAME = "Crystal Ball-cal";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
 		};
-		9a09d08399baee25a71c8982 /* Release */ = {
+		0676D79E18C82C2B001B21A3 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
-				FRAMEWORK_SEARCH_PATHS = (
-					"$(inherited)",
-					"\"$(SRCROOT)\"",
-				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Crystal Ball/Crystal Ball-Prefix.pch";
-				INFOPLIST_FILE = "Crystal Ball/Crystal Ball-Info.plist";
-				OTHER_LDFLAGS = (
-					"$(inherited)",
-					"-force_load",
-					"\"$(SRCROOT)/calabash.framework/calabash\"",
-					"-lstdc++",
-				);
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				INFOPLIST_FILE = "Crystal Ball-cal-Info.plist";
+				PRODUCT_NAME = "Crystal Ball-cal";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -581,11 +561,11 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		b3f6ad694e9d2fde8dca77ca /* Build configuration list for PBXNativeTarget "Crystal Ball-cal" */ = {
+		0676D79C18C82C2B001B21A3 /* Build configuration list for PBXNativeTarget "Crystal Ball-cal" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				1c4d962619aa83f1a0c6b0b7 /* Debug */,
-				9a09d08399baee25a71c8982 /* Release */,
+				0676D79D18C82C2B001B21A3 /* Debug */,
+				0676D79E18C82C2B001B21A3 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

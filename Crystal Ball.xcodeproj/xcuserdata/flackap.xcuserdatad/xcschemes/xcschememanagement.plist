@@ -4,12 +4,17 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>Crystal Ball copy.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
 		<key>Crystal Ball-cal.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>1</integer>
 		</dict>
-		<key>Crystal Ball.xcscheme</key>
+		<key>Crystal Ball.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
@@ -23,6 +28,11 @@
 			<true/>
 		</dict>
 		<key>0662539618C7BCEA006602FB</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>0676D78F18C82C2B001B21A3</key>
 		<dict>
 			<key>primary</key>
 			<true/>
