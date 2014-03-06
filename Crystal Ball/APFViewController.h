@@ -9,5 +9,6 @@
 #import <UIKit/UIKit.h>
 
 @interface APFViewController : UIViewController
+@property (weak, nonatomic) IBOutlet UILabel *predictionLabel;
 - (IBAction)buttonPressed;
 @end
