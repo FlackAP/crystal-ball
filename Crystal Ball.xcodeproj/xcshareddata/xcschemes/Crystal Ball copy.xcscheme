@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "0676D78F18C82C2B001B21A3"
-               BuildableName = "Crystal Ball copy.app"
+               BuildableName = "Crystal Ball-cal.app"
                BlueprintName = "Crystal Ball-cal"
                ReferencedContainer = "container:Crystal Ball.xcodeproj">
             </BuildableReference>
@@ -33,7 +33,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "0676D78F18C82C2B001B21A3"
-            BuildableName = "Crystal Ball copy.app"
+            BuildableName = "Crystal Ball-cal.app"
             BlueprintName = "Crystal Ball-cal"
             ReferencedContainer = "container:Crystal Ball.xcodeproj">
          </BuildableReference>
@@ -52,7 +52,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "0676D78F18C82C2B001B21A3"
-            BuildableName = "Crystal Ball copy.app"
+            BuildableName = "Crystal Ball-cal.app"
             BlueprintName = "Crystal Ball-cal"
             ReferencedContainer = "container:Crystal Ball.xcodeproj">
          </BuildableReference>
@@ -70,7 +70,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "0676D78F18C82C2B001B21A3"
-            BuildableName = "Crystal Ball copy.app"
+            BuildableName = "Crystal Ball-cal.app"
             BlueprintName = "Crystal Ball-cal"
             ReferencedContainer = "container:Crystal Ball.xcodeproj">
          </BuildableReference>
